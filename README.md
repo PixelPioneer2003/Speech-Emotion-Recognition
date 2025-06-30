@@ -57,5 +57,5 @@ The project uses the **Toronto Emotional Speech Set (TESS)**, which provides hig
 
 ---
 
-## 🏗️ Project Structure
+
 
